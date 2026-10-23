@@ -2,7 +2,6 @@
 
 ```text
   _   _ _     _ _        _ _       
-
  | \ | (_)_ _(_) |_ __ _| (_) __ _ 
  |  \| | | '_| |  _/ _` | | |/ _` |
  |_| \_|_|_| |_|\__\__,_|_|_|\__,_|
@@ -90,5 +89,7 @@ Running `./manage.sh` fires up an interactive wizard handling the heavy lifting.
 * **Base Distribution:** Optimized directly for **CachyOS** configurations to align with upstream package structures.
 * **Repository Validation:** Core components reference the official native Arch / CachyOS mirrorlist configurations.
 
+---
+Note: Source code wont be on Github, but you can download it in Releases and check codes and files etc in the folder you unzip
 ---
 <p align="center">Made with ☕ and clean code by <b>NiriXD</b></p>
