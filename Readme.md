@@ -15,12 +15,14 @@
 ---
 
 ## 📸 Gallery
+I'm terribly sorry for the image quality.
 
+Dark theme
 <p align="center">
   <img src="https://files.catbox.moe/s44cul.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
 
-https://files.catbox.moe/20dc28.jpeg` — The automated cream-colored terminal menu suite in action.
+White Theme (Cream-like color)
 <p align="center">
   <img src="https://files.catbox.moe/20dc28.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
