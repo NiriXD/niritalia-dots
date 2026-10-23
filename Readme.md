@@ -27,7 +27,9 @@ White Theme (Cream-like color)
   <img src="https://files.catbox.moe/20dc28.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
 
-*https://github.com/user-attachments/assets/4d8c226d-dc62-4bd4-893b-57824a1eabca — Video showcase of the active wallpaper carousel module.*
+Wallpaper Carousel Showcase
+
+https://github.com/user-attachments/assets/4d8c226d-dc62-4bd4-893b-57824a1eabca
 
 ---
 
