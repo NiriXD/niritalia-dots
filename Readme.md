@@ -27,6 +27,7 @@ White Theme (Cream-like color)
   <img src="https://files.catbox.moe/20dc28.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
 
+Wallpaper Carousel Showcase
 <p align="center">
   <video src="https://files.catbox.moe/u82gx7.mp4" width="85%" controls autoplay loop muted>
     Your browser does not support the video tag.
