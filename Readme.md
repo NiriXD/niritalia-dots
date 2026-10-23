@@ -38,7 +38,8 @@ https://github.com/user-attachments/assets/4d8c226d-dc62-4bd4-893b-57824a1eabca
 Here is exactly what gets tracked, packed, and deployed across the suite:
 
 * 🪟 **Niri Window Manager:** Custom scrollable tiling layouts, hand-optimized animations, and fluid keybind mechanics (`~/.config/niri/config.kdl`).
-* 🐚 **Noctalia Shell Environment:** Not much, waste of time. (`~/.config/noctalia/`).
+* 🐚 **Noctalia Shell Environment:** Not much, waste of time.
+(`~/.config/noctalia/`).
 * 🔌 **Noctalia v5 Plugin Array:** Embedded workflow engine add-ons including the custom wallpaper carousel module (`~/.local/share/noctalia/plugins/`).
 * 🎨 **Global Theme State:** Locked-in accent configurations and live system overrides managed by the UI (`~/.local/state/noctalia/settings.toml`).
 * 🖼️ **Assets & Wallpapers:** Complete visual package dump matching the active aesthetic automatically synced to your `~/Pictures` path.
