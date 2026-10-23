@@ -17,12 +17,12 @@
 ## 📸 Gallery
 I'm terribly sorry for the image quality.
 
-Dark theme
+                                             Dark theme
 <p align="center">
   <img src="https://files.catbox.moe/s44cul.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
 
-White Theme (Cream-like color)
+                                     White Theme (Cream-like color)
 <p align="center">
   <img src="https://files.catbox.moe/20dc28.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
