@@ -29,7 +29,7 @@ White Theme (Cream-like color)
 
 Wallpaper Carousel Showcase
 <p align="center">
-  <video src="https://files.catbox.moe/u82gx7.mp4" width="85%" controls autoplay loop muted>
+  <video src="https://github.com/user-attachments/assets/4d8c226d-dc62-4bd4-893b-57824a1eabca" width="85%" controls autoplay loop muted>
     Your browser does not support the video tag.
   </video>
 </p>
