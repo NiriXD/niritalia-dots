@@ -17,12 +17,12 @@
 ## 📸 Gallery
 I'm terribly sorry for the image quality.
 
-                                             Dark theme
+Dark theme
 <p align="center">
   <img src="https://files.catbox.moe/s44cul.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
 
-                                     White Theme (Cream-like color)
+White Theme (Cream-like color)
 <p align="center">
   <img src="https://files.catbox.moe/20dc28.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
@@ -34,7 +34,7 @@ I'm terribly sorry for the image quality.
 Here is exactly what gets tracked, packed, and deployed across the suite:
 
 * 🪟 **Niri Window Manager:** Custom scrollable tiling layouts, hand-optimized animations, and fluid keybind mechanics (`~/.config/niri/config.kdl`).
-* 🐚 **Noctalia Shell Environment:** Hand-written layout files, custom status indicators, and modular configurations (`~/.config/noctalia/`).
+* 🐚 **Noctalia Shell Environment:** Not much, waste of time. (`~/.config/noctalia/`).
 * 🔌 **Noctalia v5 Plugin Array:** Embedded workflow engine add-ons including the custom wallpaper carousel module (`~/.local/share/noctalia/plugins/`).
 * 🎨 **Global Theme State:** Locked-in accent configurations and live system overrides managed by the UI (`~/.local/state/noctalia/settings.toml`).
 * 🖼️ **Assets & Wallpapers:** Complete visual package dump matching the active aesthetic automatically synced to your `~/Pictures` path.
