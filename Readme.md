@@ -20,9 +20,10 @@
   <img src="https://files.catbox.moe/s44cul.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
 
-*Placeholders for your screenshots (Replace these URLs in your repository once uploaded):*
-* `screenshots/desktop.png` — Main desktop layout showing the active topbar config.
-* `screenshots/menu.png` — The automated cream-colored terminal menu suite in action.
+https://files.catbox.moe/20dc28.jpeg` — The automated cream-colored terminal menu suite in action.
+<p align="center">
+  <img src="https://files.catbox.moe/20dc28.jpeg" alt="Niritalia Desktop Screenshot" width="85%">
+</p>
 
 ---
 
