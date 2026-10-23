@@ -17,7 +17,7 @@
 ## 📸 Gallery
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Niritalia Desktop Screenshot" width="85%">
+  <img src="[Dark mode with chinese wallpaper (Catbox.moe)](https://files.catbox.moe/s44cul.jpeg)" alt="Niritalia Desktop Screenshot" width="85%">
 </p>
 
 *Placeholders for your screenshots (Replace these URLs in your repository once uploaded):*
